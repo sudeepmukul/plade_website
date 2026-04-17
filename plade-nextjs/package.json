@@ -1,0 +1,22 @@
+{
+  "name": "plade-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PLADE — The world's first FPS coding education game built on Unreal Engine 5. Learn programming through immersive first-person shooter gameplay.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build"
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.0"
+  }
+}
